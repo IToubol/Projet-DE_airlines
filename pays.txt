@@ -1,0 +1,232 @@
+Code,Nom
+AE,Emirat Arabes Unis
+AF,Afghanistan
+AG,Antigua And Barbuda - Leeward Islands
+AI,Anguilla - Leeward Islands
+AL,Albanie
+AM,Armenie
+AO,Angola
+AQ,Antarctica
+AR,Argentine
+AS,American Samoa
+AT,Autriche
+AU,Australie
+AW,Aruba
+AZ,Azerbaidjan
+BA,Bosnia And Herzegovina
+BB,Barbados
+BD,Bangladesh
+BE,Belgique
+BF,Burkina Faso
+BG,Bulgarie
+BH,Bahrain
+BI,Burundi
+BJ,Benin
+BL,Saint Barthelemy
+BM,Bermuda
+BN,Brunei Darussalam
+BO,Bolivia
+BQ,Bonaire - Saint Eustatius And Saba
+BR,Bresil
+BS,Bahamas
+BT,Bhutan
+BW,Botswana
+BY,Bielorussie
+BZ,Belize
+CA,Canada
+CC,Cocos (Keeling) Islands
+CD,Congo Democratic Republic Of
+CF,Central African Republic
+CG,Congo
+CH,Suisse
+CI,Cote d`Ivoire
+CK,Cook Islands
+CL,Chili
+CM,Cameroun
+CN,China
+CO,Colombie
+CR,Costa Rica
+CU,Cuba
+CV,Cape Verde
+CW,Curacao
+CX,Christmas Island - Indian Ocean
+CY,Chypre
+CZ,Republique Tcheque
+DE,Allemagne
+DJ,Djibouti
+DK,Danemark
+DM,Dominica
+DO,Dominican Republic
+DZ,Algerie
+EC,Ecuador
+EE,Estonie
+EG,Egypte
+ER,Erythree
+ES,Espagne
+ET,Ethiopie
+FI,Finlande
+FJ,Fiji
+FK,Falkland Islands
+FM,Micronesia Federated States Of
+FO,Faroe Islands
+FR,France
+GA,Gabon
+GB,Royaume Uni
+GD,Grenada - Windward Islands
+GE,Georgie
+GF,French Guiana
+GH,Ghana
+GI,Gibraltar
+GL,Greenland
+GM,Gambia
+GN,Guinea
+GP,Guadeloupe
+GQ,Guinee Equatoriale
+GR,Grece
+GT,Guatemala
+GU,Guam
+GW,Guinea-Bissau
+GY,Guyana
+HN,Honduras
+HR,Croatie
+HT,Haiti
+HU,Hongrie
+ID,Indonesie
+IE,Ireland Republic Of
+IL,Israel
+IN,Inde
+IQ,Iraq
+IR,Iran Islamic Republic Of
+IS,Islande
+IT,Italie
+JM,Jamaica
+JO,Jordanie
+JP,Japon
+KE,Kenya
+KG,Kyrgyzstan
+KH,Cambodge
+KI,Kiribati
+KM,Comoros
+KN,Saint Kitts And Nevis - Leeward Island
+KP,Korea Democratic People`s Republic Of
+KR,Korea Republic Of
+KW,Koweit
+KY,Cayman Islands
+KZ,Kazakhstan
+LA,Laos
+LB,Liban
+LC,Saint Lucia
+LI,Liechtenstein
+LK,Sri Lanka
+LR,Liberia
+LS,Lesotho
+LT,Lithuanie
+LU,Luxembourg
+LV,Lettonie
+LY,Lybie
+MA,Morocco
+MC,Monaco
+MD,Moldova Republic Of
+ME,Montenegro
+MG,Madagascar
+MH,Marshall Islands
+MK,North Macedonia 
+ML,Mali
+MM,Myanmar
+MN,Mongolia
+MP,Northern Mariana Islands
+MQ,Martinique
+MR,Mauritania
+MS,Montserrat - Leeward Islands
+MT,Malte
+MU,Mauritius
+MV,Maldives
+MW,Malawi
+MX,Mexique
+MY,Malaysie
+MZ,Mozambique
+NA,Namibie
+NC,New Caledonia
+NE,Niger
+NF,Norfolk Island
+NG,Nigeria
+NI,Nicaragua
+NL,Pays-Bas
+NO,Norvege
+NP,Nepal
+NR,Nauru
+NU,Niue
+NZ,Nouvelle-Zelande
+OM,Oman
+PA,Panama
+PE,Perou
+PF,French Polynesia
+PG,Papua New Guinea
+PH,Philippines
+PK,Pakistan
+PL,Pologne
+PM,Saint Pierre And Miquelon
+PR,Puerto Rico
+PS,Territoires palestiniens occupes
+PT,Portugal
+PW,Palau
+PY,Paraguay
+QA,Qatar
+RE,Reunion
+RO,Roumanie
+RS,Serbia
+RU,Russie
+RW,Rwanda
+SA,Arabie Saoudite
+SB,Solomon Islands
+SC,Seychelles
+SD,Soudan
+SE,Suede
+SG,Singapour
+SH,Saint Helena
+SI,Slovenie
+SK,Slovaquie
+SL,Sierra Leone
+SM,San Marino
+SN,Senegal
+SO,Somalia
+SR,Suriname
+SS,South Sudan
+ST,Sao Tome And Principe
+SV,El Salvador
+SX,St Maarten (Dutch Part)
+SY,Syrie
+SZ,Eswatini
+TC,Turks And Caicos Islands
+TD,Chad
+TG,Togo
+TH,Thailande
+TJ,Tajikistan
+TL,Timor-Leste
+TM,Turkmenistan
+TN,Tunisie
+TO,Tonga
+TR,Turquie
+TT,Trinidad And Tobago
+TV,Tuvalu
+TW,Chinese Taipei
+TZ,Tanzania United Republic Of
+UA,Ukraine
+UG,Uganda
+UM,United States Minor Outlying Islands
+US,United States Of America
+UY,Uruguay
+UZ,Ouzbekistan
+VC,St Vincent And The Grenadines
+VE,Venezuela
+VG,Virgin Islands - British
+VI,Virgin Islands - Us
+VN,Viet Nam
+VU,Vanuatu
+WF,Wallis And Futuna Islands
+WS,Samoa
+YE,Yemen
+YT,Mayotte
+ZA,Afrique du Sud
+ZM,Zambia
+ZW,Zimbabwe

@@ -21,3 +21,5 @@ le décalage horaire local par rapport à l'heure UTC et la position (latitude &
 - Fichier json contenant des infos pour environ 2500 paires Origine-Destination, comme:
 la distance, le plan de vol (liste de points géographiques appartenant à la trajectoire de l'avion),
 l'ID du plan de vol et le nombres de points.
+
+[Pour le moment ces fichiers ne sont pas complets...]

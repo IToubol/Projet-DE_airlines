@@ -13,13 +13,11 @@ Nous avons déjà plusieurs fichiers contenant une quantité intéressante de do
 qui nous permettent de remplir des bdd locales (comme Mysql et MongoDB)
 pour fournir les infos nécessaires à notre application.
 
-- Fichier csv contenant des infos sur les aérorports (identifiés par leur code IATA):
-le nom, les codes IATA des ville et pays où ils se situent,
-le décalage horaire local par rapport à l'heure UTC et la position (latitude & longitude)
-- Fichier csv contenant des infos similaire sur les villes (identifiées par leur code IATA)
-- Fichier csv contenant la correspondance entre le code IATA des pays et leurs noms.
-- Fichier json contenant des infos pour près de 2900 paires Origine-Destination, comme:
-la distance, le plan de vol (liste de points géographiques appartenant à la trajectoire de l'avion),
-l'ID du plan de vol et le nombres de points.
+- Fichier .txt contenant des infos (format csv, adapté pour la bdd mysql) sur les aérorports (identifiés par leur code IATA) tels que:
+le nom, les codes IATA des ville et pays où ils se situent, etc...
+- Fichier .txt contenant des infos (format csv) similaire sur les villes (identifiées par leur code IATA)
+- Fichier .txt (format csv) contenant la correspondance entre le code IATA des pays et leurs noms.
+- Fichier .txt contenant des infos (au format json, adaptés pour la base MongoDB) pour près de 2900 paires Origine-Destination, comme:
+la distance, le plan de vol (liste de points géographiques appartenant à la trajectoire de l'avion), l'ID du plan de vol et le nombres de points.
 
 [Pour le moment ces fichiers ne sont pas complets...]

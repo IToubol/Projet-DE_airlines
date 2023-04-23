@@ -2,7 +2,7 @@ from math import sqrt
 # from time import perf_counter as pc
 
 # Paramètres ce connexion à la BDD Mysql
-params = {'user':'root', 'host':'localhost', 'password':'$Tefilin&41!', 'database':'iata'}
+params = {'user':'root', 'host':'localhost', 'password':'xxxxxxx', 'database':'xxxx'}
 
 # ditcionnaire des code des compagnies
 cpnDic = {'LH':'Lufthansa', 'OS':'Austrian Airlines', 'LX':'Swiss', 'EN':'Air Dolomiti', 'WK':'Edelweiss Air'}

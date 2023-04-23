@@ -13,11 +13,8 @@ reqBase = "https://api.lufthansa.com/v1/"
 
 """
 fonction qui calcule (approximativement) les coordonnees (au sol) d'un avion en cours de vol
-en fonction de ses points de depart et d'arivée (coordonnées gps)
+en fonction de l'heure actuelle, la longueur du trajet, la route de l'avion (liste de coordonnées gps)
 et de ses heures de depart et d'arrivée (en nb de minutes depuis minuit UTC).
-Le résultat de cette fonction n'est valable que pour les cas où
-moins de 24 heures ne sont passées depuis le départ
-et où l'arrivée n'a pas encore eu lieu.
 """
 
 
